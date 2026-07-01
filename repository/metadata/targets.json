@@ -1,0 +1,28 @@
+{
+ "signatures": [
+  {
+   "keyid": "cb01130cef73222a8296e9a7d082dcafeec5189a343e7842b26c8ddf48c5b422",
+   "sig": "ac21d20eea8cf839bb05279340bce756e8d71ff7ac91c91ea77943bd2bbe8e307565c5a57e7fa7b7564ab06b01f9e8665d1225f99c7c961c8d6da905c5c0190d"
+  }
+ ],
+ "signed": {
+  "_type": "targets",
+  "expires": "2026-07-31T11:14:03Z",
+  "spec_version": "1.0.31",
+  "targets": {
+   "DataManagementERP-0.0.7.tar.gz": {
+    "custom": {
+     "tufup": {
+      "required": false
+     },
+     "user": null
+    },
+    "hashes": {
+     "sha256": "3ee53ef729c5696eb002f99dd83699e438628ee82b34358a15817e55aae97638"
+    },
+    "length": 189
+   }
+  },
+  "version": 1
+ }
+}
